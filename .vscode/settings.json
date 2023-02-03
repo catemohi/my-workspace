@@ -13,7 +13,11 @@
         "editor.defaultFormatter": "ms-python.black-formatter",
         "editor.formatOnSave": true,
         "editor.formatOnPaste": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true
+        },
     },
+    "isort.args":["--profile", "black"],
     "editor.fontSize": 16,
     "editor.fontFamily": "'Hack','Droid Sans Mono', 'monospace', monospace",
     "editor.renderWhitespace": "all",
