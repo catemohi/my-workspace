@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "pkief.material-icon-theme",
+        "github.github-vscode-theme",
+        "donjayamanne.python-extension-pack",
+        "ms-python.black-formatter"
+    ]
+}

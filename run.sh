@@ -7,6 +7,7 @@ cp -r ./.vscode ../.vscode
 cp ./setup.cfg ../setup.cfg
 cp ./gitignore ../.gitignore
 cp ./_main.py ../main.py
+cp ./pyproject.toml ../pyproject.toml
 mypy ../.
 cp -a ./.mypy_cache ../.mypy_cache
 rm -rf ./.mypy_cache

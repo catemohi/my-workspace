@@ -9,7 +9,15 @@
         "editor.rulers": [
             79,
             120
-        ]
-    }
+        ],
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true,
+        "editor.formatOnPaste": true,
+    },
+    "editor.fontSize": 16,
+    "editor.fontFamily": "'Hack','Droid Sans Mono', 'monospace', monospace",
+    "editor.renderWhitespace": "all",
+    "editor.cursorStyle": "line",
+    "python.formatting.provider": "none",
 
 }

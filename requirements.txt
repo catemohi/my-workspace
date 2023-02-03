@@ -8,5 +8,6 @@ flake8-variables-names
 flake8-docstrings
 pep8-naming
 mypy
+black
 isort
 pytest
